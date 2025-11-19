@@ -37,10 +37,13 @@
 ---
 
 ## 👋 About Me
-Hi! I'm **Fuyad Hasan**, a passionate Frontend & MERN Stack Developer from **Dinajpur, Bangladesh**.  
-I love building responsive web applications and learning new technologies.  
+👋 Hi, I’m **Fuyad Hasan**  
+💻 I’m a Frontend & MERN Stack Developer from **Dinajpur, Bangladesh**.  
+🌐 I love building responsive and user-friendly web applications.  
+🛠️ Currently working with **React.js, Next.js, Node.js, MongoDB, Firebase, Tailwind CSS**.  
+📚 Learning new technologies and improving my Full-Stack development skills.  
+💬 Ask me about **React, Next.js, Node.js, MongoDB, Firebase, Tailwind CSS**.
 
-**Current Focus:** React, Next.js, Node.js, MongoDB, Firebase, Tailwind CSS
 
 ---
 
