@@ -28,11 +28,7 @@
 
 </div>
 
-<p align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=11fuyad00&theme=radical&row=1&column=7" alt="Trophies" />
-  </a>
-</p>
+
 
 ---
 
