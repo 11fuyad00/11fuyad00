@@ -1,5 +1,5 @@
 <!-- Banner Image -->
-![Banner](https://i.ibb.co/Ty15DNh/Firefly-Gemini-Flash-Professional-wide-Git-Hub-banner-for-a-web-developer-featuring-a-professional-h.png)
+![Banner]([https://i.ibb.co/Ty15DNh/Firefly-Gemini-Flash-Professional-wide-Git-Hub-banner-for-a-web-developer-featuring-a-professional-h.png](https://i.ibb.co.com/ycrvjJ9N/Gemini-Generated-Image-cugcqbcugcqbcugc.png))
 
 <!-- Animated Typing Effect -->
 <div align="center">
