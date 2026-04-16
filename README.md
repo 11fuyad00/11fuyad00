@@ -1,178 +1,206 @@
-<!-- Banner Image -->
-![Banner]([https://i.ibb.co/Ty15DNh/Firefly-Gemini-Flash-Professional-wide-Git-Hub-banner-for-a-web-developer-featuring-a-professional-h.png](https://i.ibb.co.com/ycrvjJ9N/Gemini-Generated-Image-cugcqbcugcqbcugc.png))
-
-<!-- Animated Typing Effect -->
+<!-- ==================== BANNER ==================== -->
 <div align="center">
 
-<!-- Ultimate Animated Header -->
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=44&duration=3500&pause=1500&color=FF69B4&background=45FFCA00&center=true&vCenter=true&width=850&height=90&lines=🚀+Welcome+to+my+GitHub+Profile!;👋+Hi,+I'm+Fuyad+Hasan;💻+Frontend+Developer+Extraordinaire;⚛️+React+%7C+Next.js+%7C+TypeScript;🌟+MERN+Stack+Developer;🎨+UI%2FUX+Enthusiast;🔥+Code+Artisan" alt="Typing SVG" />
-</p>
-
-<!-- Multi-row Animated Badges -->
-<div align="center">
-  <!-- First Row -->
-  <div style="display: flex; justify-content: center; gap: 12px; flex-wrap: wrap; margin: 15px 0;">
-    <img src="https://img.shields.io/badge/🎯_Frontend_Developer-FF6B6B?style=for-the-badge&logo=visualstudiocode&logoColor=white" alt="Frontend" height="42"/>
-    <img src="https://img.shields.io/badge/⚡_MERN_STACK-9D4EDD?style=for-the-badge&logo=javascript&logoColor=white" alt="MERN Stack" height="42"/>
-    <img src="https://img.shields.io/badge/🚀_React-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React" height="42"/>
-  </div>
-  
-  <!-- Second Row -->
-  <div style="display: flex; justify-content: center; gap: 12px; flex-wrap: wrap; margin: 10px 0;">
-    <img src="https://img.shields.io/badge/💫_Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="Next.js" height="42"/>
-    <img src="https://img.shields.io/badge/🎨_TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" height="42"/>
-    <img src="https://img.shields.io/badge/🔥_Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js" height="42"/>
-  </div>
-</div>
+<img src="https://capsule-render.vercel.app/api?type=venom&color=0:0a0a0f,50:0d1117,100:0f1923&height=280&section=header&text=Fuyad%20Hasan&fontSize=80&fontColor=f0f6ff&fontAlignY=42&desc=Full-Stack%20Developer%20%7C%20WordPress%20Expert%20%7C%20UI%2FUX%20Craftsman&descSize=17&descColor=6366f1&descAlignY=65&animation=fadeIn" width="100%" alt="Fuyad Hasan — Full-Stack Developer"/>
 
 </div>
 
-
-
----
-
-## 👋 About Me
-👋 Hi, I’m **Fuyad Hasan**  
-💻 I’m a Frontend & MERN Stack Developer from **Dinajpur, Bangladesh**.  
-🌐 I love building responsive and user-friendly web applications.  
-🛠️ Currently working with **React.js, Next.js, Node.js, MongoDB, Firebase, Tailwind CSS**.  
-📚 Learning new technologies and improving my Full-Stack development skills.  
-💬 Ask me about **React, Next.js, Node.js, MongoDB, Firebase, Tailwind CSS**.
-
-
----
-
+<!-- ==================== PHOTO + INTRO ==================== -->
 <div align="center">
 
-### 🌈 Let's Connect & Collaborate
+<img src="https://i.ibb.co.com/NfR1wCT/Personal.png" width="300"  
+     style="border-radius: 20px;" alt="Fuyad Hasan"/>
 
-<!-- Gradient Contact Cards -->
-<p align="center">
-  <a href="mailto:fuyad.hasan9612@gmail.com" target="_blank" style="margin:0 6px; text-decoration: none;">
-    <img src="https://img.shields.io/badge/✉️_Email-fuyad.hasan9612@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=1a1a1a" alt="Email" height="44"/>
-  </a>
-  
-  <a href="tel:+8801729312827" target="_blank" style="margin:0 6px; text-decoration: none;">
-    <img src="https://img.shields.io/badge/📱_Call_Me-+8801729312827-25D366?style=for-the-badge&logo=whatsapp&logoColor=white&labelColor=1a1a1a" alt="Phone" height="44"/>
-  </a>
-</p>
+<br/>
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/11fuyad00" target="_blank" style="margin:0 6px; text-decoration: none;">
-    <img src="https://img.shields.io/badge/💼_LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=1a1a1a" alt="LinkedIn" height="44"/>
-  </a>
-  
-  <a href="https://github.com/11fuyad00" target="_blank" style="margin:0 6px; text-decoration: none;">
-    <img src="https://img.shields.io/badge/💻_GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=1a1a1a" alt="GitHub" height="44"/>
-  </a>
-  
-  <a href="https://twitter.com/11fuyad00" target="_blank" style="margin:0 6px; text-decoration: none;">
-    <img src="https://img.shields.io/badge/🐦_Twitter-Follow-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white&labelColor=1a1a1a" alt="Twitter" height="44"/>
-  </a>
-</p>
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=6366F1&center=true&vCenter=true&width=580&lines=Building+Fast%2C+Clean+%26+Scalable+Web+Apps+%F0%9F%9A%80;React+%7C+Node.js+%7C+WordPress+Developer;Turning+Ideas+Into+Digital+Products+%E2%9C%A8;Open+to+Freelance+%26+Remote+Opportunities)](https://git.io/typing-svg)
 
-<!-- Contact Status -->
-<div style="background: linear-gradient(45deg, #FF6B6B, #4ECDC4); padding: 12px; border-radius: 8px; margin: 15px 0; color: white; font-weight: bold;">
-  🟢 Available for freelance projects & collaborations
-</div>
+<br/>
+
+[![Portfolio](https://img.shields.io/badge/Portfolio-fuyadtech.netlify.app-6366f1?style=for-the-badge&logo=vercel&logoColor=white)](https://fuyadtech.netlify.app)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/fuyad-hasan-545379392)
+[![Email](https://img.shields.io/badge/Email-Hire%20Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:fuyadhasan@email.com)
+[![GitHub](https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/fuyad-hasan)
+
+<br/>
+
+![Profile Views](https://komarev.com/ghpvc/?username=fuyad-hasan&color=6366f1&style=flat-square&label=Profile+Views)
+![GitHub followers](https://img.shields.io/github/followers/fuyad-hasan?color=6366f1&style=flat-square&logo=github&label=Followers)
 
 </div>
 
 ---
 
-## 🌱 Currently Learning / Exploring
-- Node.js, MongoDB, Firebase & Advanced React  
-- Next.js & Tailwind CSS  
-- TypeScript & modern frontend patterns  
+## 👨‍💻 About Me
+
+```javascript
+const fuyad = {
+  name        : "Fuyad Hasan",
+  title       : "Full-Stack Developer & WordPress Expert",
+  location    : "Parbatipur, Bangladesh 🇧🇩",
+  portfolio   : "https://fuyadtech.netlify.app",
+  currentFocus: ["MERN Stack", "WordPress", "UI/UX", "SEO"],
+  learning    : ["Advanced React Patterns", "System Design", "Python"],
+  goal        : "Freelance → Remote Work → Own Digital Agency",
+  available   : true, // Open to new projects
+};
+```
+
+- 🔭 Currently working on **production-level MERN & WordPress projects**
+- 🌱 Deepening expertise in **React.js, Node.js, MongoDB & JWT Authentication**
+- 💡 Passionate about **clean code, performance, and conversion-focused UI/UX**
+- 🎯 2025 Goal: **Land first international clients & build a full-service agency**
+- 🤝 Open to **freelance projects, remote jobs & long-term collaborations**
+- 📍 **Bangladesh** — available for global remote work
 
 ---
 
-## 🧠 Skills & Technologies
+## 🛠️ Tech Stack
 
-### Languages
-<p>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML5" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS3" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/>
-</p>
+### 🎨 Frontend Development
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 
-### Frontend
-<p>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="React" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vite/vite-original.svg" alt="Vite" width="40" height="40"/>
-  <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="Tailwind CSS" width="40" height="40"/>
-</p>
+### ⚙️ Backend & Database
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
+![JWT](https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white)
 
-### Backend
-<p>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="Node.js" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="Express" width="40" height="40"/>
-</p>
+### 🌐 CMS & eCommerce
+![WordPress](https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white)
+![WooCommerce](https://img.shields.io/badge/WooCommerce-96588A?style=for-the-badge&logo=woocommerce&logoColor=white)
+![Elementor](https://img.shields.io/badge/Elementor-92003B?style=for-the-badge&logo=elementor&logoColor=white)
 
-### Database
-<p>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="MongoDB" width="40" height="40"/>
-  <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="Firebase" width="40" height="40"/>
-</p>
-
-### Deployment & Hosting
-<p>
-  <img src="https://www.vectorlogo.zone/logos/vercel/vercel-icon.svg" alt="Vercel" width="40" height="40"/>
-  <img src="https://www.vectorlogo.zone/logos/netlify/netlify-icon.svg" alt="Netlify" width="40" height="40"/>
-</p>
-
-### Tools & Others
-<p>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="Git" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/github.svg" alt="GitHub" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" alt="VS Code" width="40" height="40"/>
-</p>
+### 🔧 Tools & Workflow
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)
 
 ---
 
-## 📊 Skills Progress
-- **JavaScript**    🟨🟨🟨🟨🟨🟨🟨🟨🟨🟨🟨🟨🟨🟨🟨 75%
-- **React**         🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦         55%
-- **Node.js**       🟩🟩🟩🟩🟩🟩🟩🟩             40%
-- **TypeScript**    🟪🟪🟪🟪🟪🟪🟪               35%
-- **MongoDB**       🟥🟥🟥🟥🟥                   25%
+## 🚀 Featured Projects
+
+<table>
+  <tr>
+    <td width="50%">
+      <h3 align="center">🛒 Vanguard E-Commerce</h3>
+      <p align="center">
+        Full-featured e-commerce platform with cart, auth, Stripe payments, admin dashboard and real-time inventory management.
+      </p>
+      <p align="center">
+        <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" />
+        <img src="https://img.shields.io/badge/Redux-764ABC?style=flat-square&logo=redux&logoColor=white" />
+        <img src="https://img.shields.io/badge/Stripe-635BFF?style=flat-square&logo=stripe&logoColor=white" />
+        <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" />
+      </p>
+      <div align="center">
+        <a href="#"><img src="https://img.shields.io/badge/Live_Demo-6366F1?style=for-the-badge&logo=vercel&logoColor=white"/></a>
+        <a href="#"><img src="https://img.shields.io/badge/Source_Code-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
+      </div>
+    </td>
+    <td width="50%">
+      <h3 align="center">🏋️ Titan Strength — Fitness Platform</h3>
+      <p align="center">
+        Modern fitness brand website with animated hero, service showcase, booking flow, and performance-optimized pages.
+      </p>
+      <p align="center">
+        <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white" />
+        <img src="https://img.shields.io/badge/Tailwind-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white" />
+        <img src="https://img.shields.io/badge/Framer_Motion-EF0080?style=flat-square&logo=framer&logoColor=white" />
+      </p>
+      <div align="center">
+        <a href="#"><img src="https://img.shields.io/badge/Live_Demo-6366F1?style=for-the-badge&logo=vercel&logoColor=white"/></a>
+        <a href="#"><img src="https://img.shields.io/badge/Source_Code-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
+      </div>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%">
+      <h3 align="center">🏠 Habitat Global — Real Estate</h3>
+      <p align="center">
+        Headless WordPress real estate platform with advanced property filtering, SEO optimization, and custom PHP backend APIs.
+      </p>
+      <p align="center">
+        <img src="https://img.shields.io/badge/WordPress-21759B?style=flat-square&logo=wordpress&logoColor=white" />
+        <img src="https://img.shields.io/badge/Headless_PHP-777BB4?style=flat-square&logo=php&logoColor=white" />
+        <img src="https://img.shields.io/badge/SEO-34A853?style=flat-square&logo=google&logoColor=white" />
+      </p>
+      <div align="center">
+        <a href="#"><img src="https://img.shields.io/badge/Live_Demo-6366F1?style=for-the-badge&logo=vercel&logoColor=white"/></a>
+        <a href="#"><img src="https://img.shields.io/badge/Source_Code-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
+      </div>
+    </td>
+    <td width="50%">
+      <h3 align="center">✨ Aura Skincare — WooCommerce</h3>
+      <p align="center">
+        Premium WooCommerce store with custom Elementor theme, product filtering, secure checkout and mobile-first design.
+      </p>
+      <p align="center">
+        <img src="https://img.shields.io/badge/WooCommerce-96588A?style=flat-square&logo=woocommerce&logoColor=white" />
+        <img src="https://img.shields.io/badge/Elementor-92003B?style=flat-square&logo=elementor&logoColor=white" />
+        <img src="https://img.shields.io/badge/WordPress-21759B?style=flat-square&logo=wordpress&logoColor=white" />
+      </p>
+      <div align="center">
+        <a href="#"><img src="https://img.shields.io/badge/Live_Demo-6366F1?style=for-the-badge&logo=vercel&logoColor=white"/></a>
+        <a href="#"><img src="https://img.shields.io/badge/Source_Code-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
+      </div>
+    </td>
+  </tr>
+</table>
+
+<div align="center">
+  <a href="https://fuyadtech.netlify.app/portfolio">
+    <img src="https://img.shields.io/badge/View_All_Projects_→-6366F1?style=for-the-badge" />
+  </a>
+</div>
 
 ---
 
-## 🌟 Currently Working On
-- 🚀 Responsive Zap-Shift-Web-Application with React & Node.js  
-- 🛠 Firebase Authentication & Cloud Firestore  
-- 🌐 Next.js projects for server-side rendering and static site generation  
 
+## 🤝 What I Offer
 
----
+<div align="center">
 
-## 📊 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=11fuyad00&show_icons=true&theme=radical" alt="GitHub Stats" width="48%"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=11fuyad00&layout=compact&theme=radical" alt="Top Languages" width="48%"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=11fuyad00&theme=radical" alt="GitHub Streak" width="48%"/>
-</p>
+| Service | Details |
+|---|---|
+| 🖥️ **Full-Stack Web Apps** | MERN stack — React, Node.js, MongoDB, Express |
+| 🌐 **WordPress Development** | Custom themes, plugins, WooCommerce, Elementor |
+| 🎨 **UI/UX Design** | Modern, conversion-focused, mobile-first interfaces |
+| 🔍 **Technical SEO** | On-page, performance optimization, Core Web Vitals |
+| ⚡ **Performance Audit** | Site speed, Lighthouse optimization, scalability review |
 
-
----
-
-## 📌 Pinned Repositories
-- [Freelance-Marketplace](https://freelance-marketplace-pro.netlify.app/) – Responsive Backend + Fronted Project 
-- [Trade-Skill](https://trade-skill-project.netlify.app/) – Fronted Project react, javascript, html, css, firebase
-- [Hero-App](hero-app-project.netlify.app) – Fronted Projects react, javascript, html, css
-
+</div>
 
 ---
 
-## ⚡ Fun Fact
-I always enjoy experimenting with new web technologies and building cool projects!  
+## 📬 Let's Work Together
+
+<div align="center">
+
+> **Available for freelance projects, remote opportunities, and long-term partnerships.**
+> I build fast, clean, and scalable digital solutions that deliver real business results.
+
+<br/>
+
+[![Portfolio](https://img.shields.io/badge/Visit_My_Portfolio-6366F1?style=for-the-badge&logo=vercel&logoColor=white)](https://fuyadtech.netlify.app)
+[![LinkedIn](https://img.shields.io/badge/Connect_on_LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/fuyad-hasan-545379392)
+[![Email](https://img.shields.io/badge/Send_an_Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:fuyadhasan@email.com)
+[![Book a Call](https://img.shields.io/badge/Book_a_Call-34A853?style=for-the-badge&logo=google-meet&logoColor=white)](https://fuyadtech.netlify.app/contact)
+
+<br/>
 
 ---
 
-## ✨ Thanks for visiting my profile
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=1000&color=FF69B4,00FFFF,FFFF00&width=600&lines=✨+Thanks+for+visiting+my+profile!+✨;😊+Hope+you+enjoyed+it!+😊" alt="Typing SVG" />
-</p>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6366f1,100:38bdf8&height=100&section=footer" width="100%" />
+
+*"I don't just write code — I engineer digital experiences that perform."*
+
+</div>
