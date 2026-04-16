@@ -8,7 +8,7 @@
 <!-- ==================== PHOTO + INTRO ==================== -->
 <div align="center">
 
-<img src="https://i.ibb.co.com/NfR1wCT/Personal.png" width="300"  
+<img src="https://i.ibb.co.com/NfR1wCT/Personal.png" height="250"  
      style="border-radius: 20px;" alt="Fuyad Hasan"/>
 
 <br/>
